@@ -52,3 +52,7 @@ Set sequence to highest setting (ex. If you have a mix of 4k and web clips, set 
 * Advantage to 4k is ability to crop
 * Disadvantage is size of files/computer capabilities 
 * Create proxy files on computer if editing gets too slow
+
+## Books/Resources
+
+* [In the Blink of an Eye, Walter Merch](https://en.wikipedia.org/wiki/In_the_Blink_of_an_Eye_(book))
